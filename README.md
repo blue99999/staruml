@@ -32,3 +32,4 @@
 6、繪製「登入註冊」模組的活動圖；
 
 五、繪製用例圖
+![image](https://github.com/blue99999/staruml/blob/main/star%20uml%201.png)
