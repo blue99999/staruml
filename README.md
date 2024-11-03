@@ -37,7 +37,7 @@
 ![image](https://github.com/blue99999/staruml/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-11-03%20122848.png)
 
 六、繪製類別圖
-![image]()
+![image](https://github.com/blue99999/staruml/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-11-03%20124611.png)
 七、繪製狀態圖
 ![image]()
 八、繪製順序圖
